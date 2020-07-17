@@ -1,7 +1,10 @@
+<p align="center">
 <img src="./examples/logo.gif" width="20%">
-Università Politecnica delle Marche
+<\p>
+Un<p align="center">iversità Politecnica delle Marche
 Corso di Laurea Magistrale in Ingegneria Informatica e dell’Automazione
-Dipartimento di Ingegneria dell’Informazione
+Di
+  partimento di Ingegneria dell’Informazione
 
 
 
