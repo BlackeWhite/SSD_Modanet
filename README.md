@@ -1,10 +1,10 @@
 <p align="center">
 <img src="./examples/logo.gif" width="20%">
-
-Università Politecnica delle Marche <br>
-Corso di Laurea Magistrale in Ingegneria Informatica e dell’Automazione <br>
-Dipartimento di Ingegneria dell’Informazione
 </p>
+<p align="center"> Università Politecnica delle Marche <br>
+Corso di Laurea Magistrale in Ingegneria Informatica e dell’Automazione <br>
+Dipartimento di Ingegneria dell’Informazione </p>
+
 
 
 # How to discorver trend on fashion domain
