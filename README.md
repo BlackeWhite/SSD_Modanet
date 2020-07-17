@@ -1,3 +1,4 @@
+<img src="./examples/original/logo.gif">
 Università Politecnica delle Marche
 Corso di Laurea Magistrale in Ingegneria Informatica e dell’Automazione
 Dipartimento di Ingegneria dell’Informazione
