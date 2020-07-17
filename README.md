@@ -1,4 +1,8 @@
-**Università Politecnica delle Marche, Corso di Laurea Magistrale in Ingegneria Informatica e dell’Automazione, Dipartimento di Ingegneria dell’Informazione** 
+**Università Politecnica delle Marche**
+**Corso di Laurea Magistrale in Ingegneria Informatica e dell’Automazione**
+**Dipartimento di Ingegneria dell’Informazione**
+
+<center>Centered text</center>
 
 # How to discorver trend on fashion domain
   
