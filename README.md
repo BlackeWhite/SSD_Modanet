@@ -10,6 +10,7 @@ Through this work we have created models that can locate clothes within the imag
 
  - **Modanet**: [Github modanet with paper](https://github.com/eBay/modanet)
  - **SSD network**: [Paper SSD](https://arxiv.org/abs/1512.02325)
+ - **FFSSD network**: [Paper SSD](https://arxiv.org/ftp/arxiv/papers/1709/1709.05054.pdf)
 
 ## The folder
 
@@ -17,7 +18,7 @@ The folder hierarchy:
 
  - **Dataset**:   Inside we find the code used to generate the dataset used for the realization of our models.
  - **SSD300**: Contains the code used to make the SSD300 model, the code was created from the Pierluigi Ferrari repository available at this [link](https://github.com/pierluigiferrari/ssd_keras)
- - **FFSSD**:   The folder contains the code of the FFSSD model we have created which integrates perfectly with the code written by Pierluigi Ferrari.
+ - **FFSSD**:   The folder contains the code of the FFSSD model we have created which integrates perfectly with the code written by Pierluigi Ferrari. To implement the feature fused module we chose the solution with element-sum
  - **Prediction&analysis_Instagram_Images**:   It contains the codes to carry out the analysis of trends on instagram using the [Instaloader](https://instaloader.github.io/) library.
 
 ## Dipendencies
