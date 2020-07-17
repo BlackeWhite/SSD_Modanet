@@ -28,5 +28,5 @@ The folder hierarchy:
  - Keras 2.2.3
 
 
-<img src="https://github.com/BlackeWhite/SSD_Modanet/blob/master/Examples/2020-06-23_17-31-49_UTC.jpg" width="50%">
+<img src="./examples/2020-07-04_09-44-53_UTC.jpg" width="50%">
 <img src="https://github.com/BlackeWhite/SSD_Modanet/blob/master/Examples/Cattura.PNG" width="50%">
