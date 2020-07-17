@@ -24,6 +24,5 @@ The folder hierarchy:
  - Keras 2.2.3
 
 
-<center>Università Politecnica delle Marche, Corso di Laurea Magistrale in Ingegneria Informatica e dell’Automazione</center>
-
-<img src="https://github.com/BlackeWhite/SSD_Modanet/blob/master/Examples/2020-06-23_17-31-49_UTC.jpg" width="50%"><img src="https://github.com/BlackeWhite/SSD_Modanet/blob/master/Examples/Cattura.PNG" width="50%">
+<img src="https://github.com/BlackeWhite/SSD_Modanet/blob/master/Examples/2020-06-23_17-31-49_UTC.jpg" width="50%">
+<img src="https://github.com/BlackeWhite/SSD_Modanet/blob/master/Examples/Cattura.PNG" width="50%">
