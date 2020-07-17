@@ -27,5 +27,4 @@ The folder hierarchy:
  - Google Colab
  - Keras 2.2.3
 
-<img src="./examples/original/2020-07-04_09-44-53_UTC.jpg" width="50%">
-<img src="./examples/2020-07-04_09-44-53_UTC.jpg" width="50%">
+<img src="./examples/original/2020-07-04_09-44-53_UTC.jpg" width="50%"><img src="./examples/2020-07-04_09-44-53_UTC.jpg" width="50%">
